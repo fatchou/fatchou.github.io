@@ -1,48 +1,35 @@
-## Welcome to GitHub Pages
+## 个人信息
 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>周胖子</h1>
+      <p><b>10年开发及管理经验</b></p>
+      <p><b>主要从事基于PHP和.NET的web服务开发</b></p>
+      <p><b>地址：深圳市福田区</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/images/ID.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
 
-### Markdown
+### 能力
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1、技术面广，精通WEB开发技术栈(前端/app/协议/服务器/业务设计/数据库/缓存/消息队列)，语言框架主要为PHP、.NET方向，JAVA和Python亦有应用经验；
 
-```markdown
-Syntax highlighted code block
+2、熟悉异步编程模式、分布式架构、微服务架构，有应对海量数据和高并发场景经验；
 
-# Header 1
-## Header 2
-### Header 3
+3、产品/项目视野良好，善于把握全局和关键环节，践行精益和敏捷理念、DevOps思想；
 
-- Bulleted
-- List
+4、有数年项目管理和团队管理经验，能从整体上搭建IT架构、团队流程规范，注重提升团队整体水平和效率；
 
-1. Numbered
-2. List
+5、关注流行的开源框架和设计理念，形成适合团队的项目开发架构和开发方式，注重团队知识的延续性；
 
-**Bold** and _Italic_ and `Code` text
+6、有良好的职业素养和职业道德，新技术上手快，对大数据框架、机器学习有所涉猎；
 
-[Link](url) and ![Image](src)
-```
+7、技术关键词：
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+WEB：HTML、CSS、Ajax、jQuery、微信服务号、小程序；ApiCloud；HTTP、HTTPS、TCP/IP；Shell、Docker、Nginx；DDD、AOP/IOC、设计模式；MySQL、SQLServer、NoSQL(MongoDB、Neo4j)、MapReduce；Redis、Memcached、RabbitMQ；
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatchou/fatchou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+框架及技术：PHP(composer、ThinkPHP、Swoole)、.NET(nuget、ABP)、JAVA(maven、SpringCloud)；
