@@ -29,7 +29,5 @@
 6、有良好的职业素养和职业道德，新技术上手快，对大数据框架、机器学习有所涉猎；
 
 7、技术关键词：
-
 WEB：HTML、CSS、Ajax、jQuery、微信服务号、小程序；ApiCloud；HTTP、HTTPS、TCP/IP；Shell、Docker、Nginx；DDD、AOP/IOC、设计模式；MySQL、SQLServer、NoSQL(MongoDB、Neo4j)、MapReduce；Redis、Memcached、RabbitMQ；
-
 框架及技术：PHP(composer、ThinkPHP、Swoole)、.NET(nuget、ABP)、JAVA(maven、SpringCloud)；
