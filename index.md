@@ -9,12 +9,12 @@
       <p><b>地址：深圳市福田区</b></p>
     </td>
     <td width="25%">
-      <img src="/images/ID.jpg" width="100%">      % 插入证件照代码
+      <img src="/images/avatar.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
 
-### 能力
+## 能力
 
 1、技术面广，精通WEB开发技术栈(前端/app/协议/服务器/业务设计/数据库/缓存/消息队列)，语言框架主要为PHP、.NET方向，JAVA和Python亦有应用经验；
 
